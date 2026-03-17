@@ -1,43 +1,43 @@
 📌 Sistema de Gestión de Usuarios en Java
-
+---
 📖 Descripción
 
 Aplicación desarrollada en Java que permite gestionar usuarios a partir de un archivo CSV. El sistema permite leer, agrupar, buscar y registrar usuarios utilizando estructuras de datos como HashMap y ArrayList.
-
+---
 🚀 Funcionalidades
 
-Lectura de usuarios desde archivo CSV
+- Lectura de usuarios desde archivo CSV
 
-Agrupación de usuarios por edad
+- Agrupación de usuarios por edad
 
-Búsqueda de usuarios por edad
+- Búsqueda de usuarios por edad
 
-Registro de nuevos usuarios
+- Registro de nuevos usuarios
 
-Persistencia de datos en archivo
-
+- Persistencia de datos en archivo
+---
 🛠️ Tecnologías usadas
 
-Java
+- Java
 
-HashMap / ArrayList
+- HashMap / ArrayList
 
-BufferedReader / BufferedWriter
-
+- BufferedReader / BufferedWriter
+---
 ▶️ Cómo ejecutar
 
-Clonar el repositorio
+1. Clonar el repositorio
 
-Abrir en IntelliJ
+2. Abrir en IntelliJ
 
-Ejecutar la clase UsuariosApp
-
+3. Ejecutar la clase UsuariosApp
+---
 🧠 Conceptos aplicados
 
-Programación Orientada a Objetos (POO)
+- Programación Orientada a Objetos (POO)
 
-Estructuras de datos
+- Estructuras de datos
 
-Manejo de archivos
+- Manejo de archivos
 
-Lógica de negocio
+- Lógica de negocio
