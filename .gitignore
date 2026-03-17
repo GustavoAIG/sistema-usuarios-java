@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Compilación
+out/
+bin/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
